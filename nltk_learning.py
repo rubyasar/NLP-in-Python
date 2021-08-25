@@ -7,7 +7,7 @@ Created on Tue Aug 24 20:46:21 2021
 import nltk
 
 nltk.download('punkt')
-nltk.download("stopwords")
+nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
 
